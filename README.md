@@ -46,12 +46,29 @@ The dataset used for this project consists of employee records, including variou
 
 ### Clustering
 - Implemented K-Means clustering.
+
+<img width="658" alt="Screenshot 2024-05-19 at 21 15 57" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/d1a46995-04f7-464b-a19a-867e39dcf83e">
+
+  
+<img width="650" alt="Screenshot 2024-05-19 at 21 16 12" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/8cf648c2-6b40-49f9-8959-97971acd972c">
+
+
 - Applied Hierarchical clustering.
+<img width="744" alt="Screenshot 2024-05-19 at 21 16 24" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/dcc213fd-e08f-4f9d-82d5-3c12407f65c1">
+
 
 ### Classification and Prediction
 - Used Decision Tree for initial classification.
+
+<img width="504" alt="Screenshot 2024-05-19 at 21 22 01" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/b1722d9a-3713-42dc-b389-7feac66f4386">
+
 - Applied Support Vector Machine (SVM) classifier.
+<img width="503" alt="Screenshot 2024-05-19 at 21 23 57" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/3d0eaea1-608d-42ff-9abf-48c7849a0515">
+
 - Employed Gradient Boosting and Random Forest for predictive modeling.
+<img width="503" alt="Screenshot 2024-05-19 at 21 28 37" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/1b55bffa-f117-43c6-ae89-9a1ae0976ed0">
+
+<img width="491" alt="Screenshot 2024-05-19 at 21 28 53" src="https://github.com/SairaPM10/Employee-Promotion-Prediction/assets/170266542/2adc850c-6bf8-4017-8d7f-4c2aedea988d">
 
 ## Results and Findings
 The analysis and modeling provided insights into the factors influencing employee promotions and enabled the development of a predictive model with reasonable accuracy. Detailed findings and visualizations are documented in the Jupyter Notebook included in this repository.
