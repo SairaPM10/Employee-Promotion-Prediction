@@ -14,9 +14,6 @@
 8. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-This project aims to predict employee promotions within an organization using a comprehensive data analysis approach. The analysis includes data cleaning, handling missing values, descriptive statistics, correlation analysis, Principal Component Analysis (PCA), clustering, and classification. Various machine learning algorithms are applied to build predictiv
-
-## Project Overview
 This project aims to predict employee promotions within an organization using a comprehensive data analysis approach. The analysis includes data cleaning, handling missing values, descriptive statistics, correlation analysis, Principal Component Analysis (PCA), clustering, and classification. Various machine learning algorithms are applied to build predictive models and derive actionable insights.
 
 ## Data Sources
